@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="937" preserveAspectRatio="xMidYMid" viewBox="0 0 1920 937" style="z-index:1;margin-right:-2px;display:block;background-repeat-y:initial;background-repeat-x:initial;background-color:rgb(241, 242, 243);animation-play-state:paused" ><g transform="translate(960,468.5) scale(1,1) translate(-960,-468.5)" style="transform:matrix(1, 0, 0, 1, 0, 0);animation-play-state:paused" ><defs style="animation-play-state:paused" ><linearGradient id="lg-0" x1="0" x2="1" y1="0" y2="0" style="animation-play-state:paused" ><stop stop-color="#f29121" offset="0.25" style="animation-play-state:paused" ></stop>
+
+  
+<stop stop-color="#fe9925" offset="0.75" style="animation-play-state:paused" ></stop></linearGradient></defs>
+
+
+<path d="M 0 -140.55 C 292.6 140.55 1627.4 -421.65 1920 -140.55 L 1920 346.69 C 2587.4 65.59 -667.4 627.79 0 346.69 Z" fill="url(#lg-0)" stroke="none" style="animation-play-state:paused" ></path>
+<defs style="animation-play-state:paused" ><linearGradient id="lg-1" x1="0" x2="1" y1="0" y2="0" style="animation-play-state:paused" ><stop stop-color="#f8982a" offset="0.25" style="animation-play-state:paused" ></stop>
+
+  
+<stop stop-color="#fe9925" offset="0.75" style="animation-play-state:paused" ></stop></linearGradient></defs>
+
+
+<path d="M 0 103.07 C 551.637 384.17 1368.36 -178.03 1920 103.07 L 1920 590.31 C 2328.36 309.21 -408.363 871.41 0 590.31 Z" fill="url(#lg-1)" stroke="none" style="animation-play-state:paused" ></path>
+<defs style="animation-play-state:paused" ><linearGradient id="lg-2" x1="0" x2="1" y1="0" y2="0" style="animation-play-state:paused" ><stop stop-color="#f8982a" offset="0.25" style="animation-play-state:paused" ></stop>
+
+  
+<stop stop-color="#ffa945" offset="0.75" style="animation-play-state:paused" ></stop></linearGradient></defs>
+
+
+<path d="M 0 346.69 C 643.227 627.79 1276.77 65.59 1920 346.69 L 1920 833.93 C 2236.77 552.83 -316.773 1115.03 0 833.93 Z" fill="url(#lg-2)" stroke="none" style="animation-play-state:paused" ></path>
+<defs style="animation-play-state:paused" ><linearGradient id="lg-3" x1="0" x2="1" y1="0" y2="0" style="animation-play-state:paused" ><stop stop-color="#ffaa48" offset="0.25" style="animation-play-state:paused" ></stop>
+
+  
+<stop stop-color="#ffa945" offset="0.75" style="animation-play-state:paused" ></stop></linearGradient></defs>
+
+
+<path d="M 0 590.31 C 316.773 871.41 1603.23 309.21 1920 590.31 L 1920 1077.55 C 2563.23 796.45 -643.227 1358.65 0 1077.55 Z" fill="url(#lg-3)" stroke="none" style="animation-play-state:paused" ></path>
+<defs style="animation-play-state:paused" ><linearGradient id="lg-4" x1="0" x2="1" y1="0" y2="0" style="animation-play-state:paused" ><stop stop-color="#ffaa48" offset="0.25" style="animation-play-state:paused" ></stop>
+
+  
+<stop stop-color="#f29121" offset="0.75" style="animation-play-state:paused" ></stop></linearGradient></defs>
+
+
+<path d="M 0 833.93 C 408.363 1115.03 1511.64 552.83 1920 833.93 L 1920 1321.17 C 2471.64 1040.07 -551.637 1602.27 0 1321.17 Z" fill="url(#lg-4)" stroke="none" style="animation-play-state:paused" ></path></g></svg>
