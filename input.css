@@ -10,26 +10,7 @@
     background-size: cover;
     background-position: center center;
   }
-  .timer-circle {
-    @apply flex
-        bg-white bg-opacity-10
-        w-[6.5rem]
-        h-[6.5rem]
-        rounded-full
-        md:w-[7.5rem]
-        md:h-[7.5rem]
-        lg:w-[8.5rem]
-        lg:h-[8.5rem];
-  }
-  .timer-circle div {
-    @apply text-white m-auto text-center;
-  }
-  .timer-count {
-    @apply block font-primary text-4xl md:text-5xl lg:text-6xl;
-  }
-  .timer-type {
-    @apply block text-sm;
-  }
+
   .social-link {
     @apply inline-block
         w-10
